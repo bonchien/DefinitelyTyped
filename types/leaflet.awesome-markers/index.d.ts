@@ -19,7 +19,7 @@ declare module 'leaflet' {
             /**
              * Select de icon library. 'fa' for font-awesome or 'glyphicon' for bootstrap 3.
              */
-            prefix?: 'fa' | 'glyphicon';
+            prefix?: 'fa' | 'glyphicon' | 'fas';
 
             /**
              * Color of the marker
